@@ -1,5 +1,5 @@
 # Geodium
 
-Studio de jeux Roblox indépendant, basé en France.
+Nous créons des jeux sur Roblox.
 
-🌐 [geodium.studio](https://geodium.studio) · ✉️ [contact@geodium.studio](mailto:contact@geodium.studio)
+[Site](https://geodium.studio) · [Contact](mailto:contact@geodium.studio)
